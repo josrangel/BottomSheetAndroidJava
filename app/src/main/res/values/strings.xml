@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BottomSheetAndroidJava</string>
+    <string name="txt_show_bottom_sheet">Show Bottom Sheet</string>
+    <string name="txt_card_view_title">Card View Title</string>
+    <string name="txt_something">Something</string>
+    <string name="txt_dismiss_dialog">Dismiss dialog</string>
 </resources>
